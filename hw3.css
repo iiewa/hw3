@@ -1,0 +1,55 @@
+Songs {
+    background-color: #F0EFEB;
+    display: flex;
+    flex-direction: column;
+}
+Songs::before {
+    content: "My Playlist";
+    color: #FF6600;
+    font-size: 32px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    margin: 40px;
+    text-align: center;
+}
+Track {
+    display: flex;
+    flex-flow: row wrap;
+    align-items: left;
+    justify-content: flex-start;
+    font-size: 16px;
+    margin-left: 40px;
+    margin-right: 40px;
+    padding: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #BFFF00;
+    border-bottom: #FF6600;
+    border-bottom-style: solid;
+}
+Title {
+    font-weight: bold;
+}
+Artists::before {
+    content: " / "
+}
+Artists {
+    margin-left: 15px;
+}
+Artists::after {
+    content: " / "
+}
+Artist ~ Artist:before {
+    content: ',  ';
+}
+Genres {
+    margin-left: 15px;
+}
+Genres::after {
+    content: " / "
+}
+Genre ~ Genre:before {
+    content: ',   ';
+}
+Year {
+    margin-left: 15px;
+}
