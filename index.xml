@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/css' href = "hw3.css"?>
+
+<Songs>
+    <Track>
+        <Title>Champagne Coast</Title>
+        <Artists>
+            <Artist>Blood Orange</Artist>
+        </Artists>
+        <Genres>
+            <Genre>Alternative</Genre>
+            <Genre>R&amp;B</Genre>
+        </Genres>
+        <Year>2011</Year>
+    </Track>
+    <Track>
+        <Title>Bodys</Title>
+        <Artists>
+            <Artist>Car Seat Headrest</Artist>
+        </Artists>
+        <Genres>
+            <Genre>Alternative</Genre>
+            <Genre>Indie Rock</Genre>
+        </Genres>
+        <Year>2011</Year>
+    </Track>
+    <Track>
+        <Title>Kokomo, IN</Title>
+        <Artists>
+            <Artist>Japanese Breakfast</Artist>
+        </Artists>
+        <Genres>
+            <Genre>Alternative</Genre>
+            <Genre>Indie Pop</Genre>
+        </Genres>
+        <Year>2021</Year>
+    </Track>
+    <Track>
+        <Title>Slay3r</Title>
+        <Artists>
+            <Artist>Playboi Carti</Artist>
+        </Artists>
+        <Genres>
+            <Genre>Hip-Hop</Genre>
+            <Genre>Rap</Genre>
+        </Genres>
+        <Year>2020</Year>
+    </Track>
+    <Track>
+        <Title>40 Days</Title>
+        <Artists>
+            <Artist>Slowdive</Artist>
+        </Artists>
+        <Genres>
+            <Genre>Alternative</Genre>
+            <Genre>Indie</Genre>
+        </Genres>
+        <Year>1993</Year>
+    </Track>
+    <Track>
+        <Title>Normal Girl</Title>
+        <Artists>
+            <Artist>SZA</Artist>
+        </Artists>
+        <Genres>
+            <Genre>R&amp;B</Genre>
+            <Genre>Soul</Genre>
+        </Genres>
+        <Year>2017</Year>
+    </Track>
+    <Track>
+        <Title>Lift</Title>
+        <Artists>
+            <Artist>Radiohead</Artist>
+        </Artists>
+        <Genres>
+            <Genre>Alternative Rock</Genre>
+            <Genre>Britpop</Genre>
+        </Genres>
+        <Year>2017</Year>
+    </Track>
+    <Track>
+        <Title>Halah</Title>
+        <Artists>
+            <Artist>Mazzy Star</Artist>
+        </Artists>
+        <Genres>
+            <Genre>Folk Rock</Genre>
+            <Genre>Dream Pop</Genre>
+        </Genres>
+        <Year>1995</Year>
+    </Track>
+    <Track>
+        <Title>Unlock It (Lock It)</Title>
+        <Artists>
+            <Artist>Charli XCX</Artist>
+            <Artist>Kim Petras</Artist>
+        </Artists>
+        <Genres>
+            <Genre>Electropop</Genre>
+            <Genre>Bubblegum Synth</Genre>
+        </Genres>
+        <Year>2020</Year>
+    </Track>
+    <Track>
+        <Title>Schizophrenia</Title>
+        <Artists>
+            <Artist>Sonic Youth</Artist>
+        </Artists>
+        <Genres>
+            <Genre>Noise Rock</Genre>
+        </Genres>
+        <Year>1993</Year>
+    </Track>
+    <Track>
+        <Title>I Want You To Love Me</Title>
+        <Artists>
+            <Artist>Fiona Apple</Artist>
+        </Artists>
+        <Genres>
+            <Genre>Baroque Pop</Genre>
+        </Genres>
+        <Year>2020</Year>
+    </Track>
+    <Track>
+        <Title>Cico Buff</Title>
+        <Artists>
+            <Artist>Cocteau Twins</Artist>
+        </Artists>
+        <Genres>
+            <Genre>Shoegaze</Genre>
+            <Genre>Ethereal Wave</Genre>
+        </Genres>
+        <Year>1988</Year>
+    </Track>
+    <Track>
+        <Title>Be Quiet and Drive (Far Away)</Title>
+        <Artists>
+            <Artist>Deftones</Artist>
+        </Artists>
+       <Genres>
+            <Genre>Alternative Metal</Genre>
+            <Genre>Post-Punk</Genre>
+        </Genres>
+        <Year>1997</Year>
+    </Track>
+</Songs>
